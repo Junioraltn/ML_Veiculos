@@ -110,9 +110,15 @@ O parâmetro seed é usado para garantir a reprodutibilidade dos resultados.
 > *Essa mudança exigiu aprender algumas novas práticas, mas deixou o projeto preparado para datasets maiores.*
 
 ## Resultado:
-O gráfico abaixo mostra a distribuição dos veiculos em função do "Housepower" e "Concumo_cidade". O modelo identificou 4 grupos distintos de carros que possuem perfis semelhante, e são representado por cores diferentes no gráfico. Esse agrupamento (segmentação) considerou variáveis como potência, consumo, tipo do carro e número de portas.
+O gráfico abaixo mostra a distribuição dos veiculos em função do "Housepower" e "Concumo_cidade". O modelo identificou 5 grupos distintos de carros que possuem perfis semelhante, e são representado por cores diferentes no gráfico. Esse agrupamento (segmentação) considerou variáveis como potência, consumo, tipo do carro e número de portas.
 
-![Gráfico de Dispersão](https://github.com/user-attachments/assets/a377788c-d770-48a9-864d-16e3ef96737b)
+
+![Gráfico de Dispersão](https://github.com/user-attachments/assets/0a93ef07-3909-41c4-91ea-7c9a74755fee)
+
+
+Relação de Vaiculos por Clusters:
+![Gráfico de Barras](https://github.com/user-attachments/assets/66ecc819-c0f4-4f15-b2fd-82b638529d63)
+
 
 ## 📊 Próximos passos
 Agora que a estrutura está bem definida, pretendo:
